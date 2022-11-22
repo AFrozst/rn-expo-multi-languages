@@ -1,0 +1,13 @@
+{
+  "HomeScreen": {
+    "nameApp": "App Multi plateforme",
+    "title": "Écran principal",
+    "description": "Ceci est l'écran principal de l'application",
+    "button": "Aller à l'écran suivant"
+  },
+  "PreferencesScreen": {
+    "title": "Écran Préférences",
+    "description": "Ceci est l'écran principal de l'application",
+    "button": "Revenir"
+  }
+}

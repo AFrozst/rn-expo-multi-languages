@@ -1,0 +1,13 @@
+{
+  "HomeScreen": {
+    "nameApp": "App Multileguages",
+    "title": "Home Screen",
+    "description": "This is the home screen of the app",
+    "button": "Go to the next screen"
+  },
+  "PreferencesScreen": {
+    "title": "Preferences Screen",
+    "description": "This is the preferences screen of the app",
+    "button": "Back"
+  }
+}

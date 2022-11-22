@@ -1,0 +1,13 @@
+{
+  "HomeScreen": {
+    "nameApp": "App Multiplataforma",
+    "title": "Pantalla Principal",
+    "description": "Esta es la pantalla principal de la aplicacion",
+    "button": "Ir a a la siguiente vista"
+  },
+  "PreferencesScreen": {
+    "title": "Pantalla de preferencias",
+    "description": "Esta es la pantalla de preferencias de la aplicacion",
+    "button": "Volver"
+  }
+}
